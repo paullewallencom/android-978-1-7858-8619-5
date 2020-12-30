@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContextualBatchMode</string>
+
+    <string name="menu_move">Move</string>
+    <string name="menu_delete">Delete</string>
+
+</resources>
